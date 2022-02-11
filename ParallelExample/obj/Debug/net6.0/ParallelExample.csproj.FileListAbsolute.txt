@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\bin\Debug\net6.0\ParallelExample.exe
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\bin\Debug\net6.0\ParallelExample.deps.json
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\bin\Debug\net6.0\ParallelExample.runtimeconfig.json
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\bin\Debug\net6.0\ParallelExample.dll
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\bin\Debug\net6.0\ref\ParallelExample.dll
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\bin\Debug\net6.0\ParallelExample.pdb
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.dll
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ref\ParallelExample.dll
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.pdb
+C:\Users\Pavani\source\repos\ParallelExample\ParallelExample\obj\Debug\net6.0\ParallelExample.genruntimeconfig.cache
